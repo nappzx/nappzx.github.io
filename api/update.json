@@ -1,0 +1,9 @@
+{
+    "app_status": true,
+    "game_version": "v1.0.0-alpha",
+    "update_required": false,
+    "game_url": "https://hykyura.github.io/api/download/app-debug.apk",
+    "full_list_url": "https://alynsampmobile.pro/data/full_list.json",
+    "lite_list_url": "https://alynsampmobile.pro/data/lite_list.json",
+    "samp_list_url": "https://alynsampmobile.pro/data/samp_list.json"
+}
