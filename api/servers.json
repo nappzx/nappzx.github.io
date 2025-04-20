@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "host": "excsamp.hykyura.my.id",
+            "port": "7777"
+        },
+        {
             "host": "144.217.19.105",
             "port": "7777"
         }
