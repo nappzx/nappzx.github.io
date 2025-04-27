@@ -1,11 +1,15 @@
 {
     "servers": [
         {
+            "host": "play.uifserver.net",
+            "port": "7776"
+        },
+        {
             "host": "144.217.19.105",
             "port": "7777"
         },
         {
-            "host": "excsamp.hykyura.my.id",
+            "host": "samp.lunarpride.net",
             "port": "7777"
         }
     ]
