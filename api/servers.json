@@ -11,6 +11,10 @@
         {
             "host": "samp.lunarpride.net",
             "port": "7777"
+        },
+        {
+            "host": "51.79.212.100",
+            "port": "7777"
         }
     ]
 }
