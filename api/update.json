@@ -1,7 +1,7 @@
 {
     "app_status": true,
-    "beta_status": true,
-    "game_version": "v1.0.0",
+    "beta_status": false,
+    "game_version": "v1.0.1-kyuradev",
     "update_required": false,
     "game_url": "https://samp.hykyura.my.id/api/download/app-game-release.apk",
     "full_list_url": "https://alynsampmobile.pro/data/full_list.json",
