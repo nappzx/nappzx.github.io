@@ -1,0 +1,37 @@
+body {
+    background-color: #030303;
+}
+
+.primary-content {
+    width: 500px;
+    height: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #162642;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    width: 200px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #6299ff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#DownloadButton {
+    background-color: #6299ff;
+    color: #fff;
+    text-decoration: none;
+    width: 200px;
+    padding: 20px;
+    border-radius: 15px;
+}
